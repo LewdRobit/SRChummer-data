@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chummer>
+	<version>-999</version>
+  <weapons>
+    <weapon>
+			<name>FN-AAL Gyrojet Pistol</name>
+			<category>Heavy Pistols</category>
+		</weapon>
+  </weapons>
+</chummer>

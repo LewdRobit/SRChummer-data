@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chummer>
+	<version>-999</version>
+  <weapons>
+    <weapon>
+			<name>Victorinox SmartStaff: Polearm</name>
+			<useskill>Blades</useskill>
+      <spec>Pole Arms</spec>
+		</weapon>
+    <weapon>
+			<name>Pole Arm</name>
+			<category>Blades</category>
+      <spec>Pole Arms</spec>
+    </weapon>
+  </weapons>
+</chummer>

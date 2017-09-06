@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chummer>
+	<version>-999</version>
+	<skills>
+		<skill>
+			<name>Blades</name>
+			<attribute>AGI</attribute>
+			<category>Combat Active</category>
+			<default>Yes</default>
+			<skillgroup>Close Combat</skillgroup>
+			<specs>
+				<spec>Axes</spec>
+				<spec>Cyber-Implant Blades</spec>
+				<spec>Knives</spec>
+				<spec>Pole Arms</spec>
+				<spec>Swords</spec>
+				<spec>Parrying</spec>
+			</specs>
+			<source>SR4</source>
+			<page>122</page>
+		</skill>
+  </skills>
+</chummer>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chummer>
+	<version>-999</version>
+	<mods>
+		<mod>
+			<name>Cyborg Adaptation</name>
+			<category>Standard</category>
+			<rating>0</rating>
+			<slots>1</slots>
+			<avail>18</avail>
+			<cost>15000</cost>
+			<source>AR</source>
+			<page>134</page>
+		</mod>
+	</mods>
+</chummer>

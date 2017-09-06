@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chummer>
+	<version>-999</version>
+	<metatypes>
+		<metatype>
+			<name>Human Cyborg</name>
+			<category>Metahuman</category>
+			<bp>0</bp>
+			<bodmin>0</bodmin>
+			<bodmax>0</bodmax>
+			<bodaug>0</bodaug>
+			<agimin>0</agimin>
+			<agimax>0</agimax>
+			<agiaug>0</agiaug>
+			<reamin>0</reamin>
+			<reamax>0</reamax>
+			<reaaug>0</reaaug>
+			<strmin>0</strmin>
+			<strmax>0</strmax>
+			<straug>0</straug>
+			<chamin>1</chamin>
+			<chamax>6</chamax>
+			<chaaug>9</chaaug>
+			<intmin>1</intmin>
+			<intmax>6</intmax>
+			<intaug>9</intaug>
+			<logmin>1</logmin>
+			<logmax>6</logmax>
+			<logaug>9</logaug>
+			<wilmin>1</wilmin>
+			<wilmax>6</wilmax>
+			<wilaug>9</wilaug>
+			<inimin>2</inimin>
+			<inimax>12</inimax>
+			<iniaug>18</iniaug>
+			<edgmin>2</edgmin>
+			<edgmax>7</edgmax>
+			<edgaug>7</edgaug>
+			<magmin>1</magmin>
+			<magmax>6</magmax>
+			<magaug>6</magaug>
+			<resmin>1</resmin>
+			<resmax>6</resmax>
+			<resaug>6</resaug>
+			<essmin>0</essmin>
+			<essmax>6</essmax>
+			<essaug>6</essaug>
+			<movement>Special</movement>
+			<source>SR4</source>
+			<page>66</page>
+		</metatype>
+	</metatypes>
+</chummer>

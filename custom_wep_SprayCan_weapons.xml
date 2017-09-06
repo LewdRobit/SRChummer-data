@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chummer>
+	<version>-999</version>
+  <weapons>
+    <weapon>
+			<name>Spray Can</name>
+			<category>Special Weapons</category>
+			<type>Ranged</type>
+			<reach>0</reach>
+			<damage>Chemical</damage>
+			<ap>-</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>20(c)</ammo>
+			<conceal>1</conceal>
+			<avail>2</avail>
+			<cost>5</cost>
+			<allowaccessory>false</allowaccessory>
+			<useskill>Exotic Ranged Weapon</useskill>
+			<range>Tasers</range>
+			<source>DCF</source>
+			<page>--</page>
+		</weapon>
+  </weapons>
+</chummer>

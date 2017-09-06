@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chummer>
+  <version>-999</version>
+  <cyberwares>
+    <cyberware>
+			<name>Control Rig (Cyborg Only)</name>
+			<category>Headware</category>
+			<ess>0</ess>
+			<capacity>[0]</capacity>
+			<avail>8</avail>
+			<cost>0</cost>
+			<source>SR4</source>
+			<page>338</page>
+		</cyberware>
+    <cyberware>
+			<name>Sim Module (Hot-Sim Modified) (Cyborg Only)</name>
+			<category>Headware</category>
+			<ess>0</ess>
+			<capacity>[0]</capacity>
+			<avail>12F</avail>
+			<cost>0</cost>
+			<bonus>
+				<matrixinitiativepass>2</matrixinitiativepass>
+				<skillsoftaccess />
+			</bonus>
+			<source>SR4</source>
+			<page>339</page>
+		</cyberware>
+    <cyberware>
+			<name>Simsense Booster (Cyborg Only)</name>
+			<category>Headware</category>
+			<ess>0</ess>
+			<capacity>[0]</capacity>
+			<avail>8</avail>
+			<cost>0</cost>
+			<bonus>
+				<matrixinitiativepassadd>1</matrixinitiativepassadd>
+			</bonus>
+			<source>AU</source>
+			<page>37</page>
+		</cyberware>
+    <cyberware>
+			<name>Skillwires (Cyborg Only)</name>
+			<category>Bodyware</category>
+			<rating>5</rating>
+			<ess>0</ess>
+			<capacity>[0]</capacity>
+			<avail>(Rating * 4)</avail>
+			<cost>0</cost>
+			<bonus>
+				<skillwire>Rating</skillwire>
+			</bonus>
+			<source>SR4</source>
+			<page>342</page>
+		</cyberware>
+  </cyberwares>
+</chummer>

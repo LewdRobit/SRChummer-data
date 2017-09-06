@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<chummer>
+	<version>-999</version>
+	<biowares>
+    <bioware>
+			<name>Mnemonic Enhancer</name>
+			<category>Cultured</category>
+			<rating>3</rating>
+			<ess>Rating * 0.1</ess>
+			<capacity>0</capacity>
+			<avail>Rating * 5</avail>
+			<cost>Rating * 7500</cost>
+			<bonus>
+				<skillcategory>
+					<name>Academic</name>
+					<bonus>Rating</bonus>
+				</skillcategory>
+				<skillcategory>
+					<name>Interest</name>
+					<bonus>Rating</bonus>
+				</skillcategory>
+				<skillcategory>
+					<name>Language</name>
+					<bonus>Rating</bonus>
+				</skillcategory>
+				<skillcategory>
+					<name>Professional</name>
+					<bonus>Rating</bonus>
+				</skillcategory>
+				<skillcategory>
+					<name>Street</name>
+					<bonus>Rating</bonus>
+				</skillcategory>
+			</bonus>
+			<source>SR4</source>
+			<page>347</page>
+		</bioware>
+	</biowares>
+</chummer>
