@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chummer>
+	<version>-999</version>
+	<books>
+		<book>
+			<name>Decaf's Custom Stuff</name>
+			<code>DCF</code>
+		</book>
+	</books>
+</chummer>
