@@ -8,8 +8,8 @@ Drop the desired files into their respective folders in the directory that conta
 
 ## Credits
 * Grimley
- * Finding the original files.
- * \[Settings\] nathanHK
+  * Finding the original files.
+  * \[Settings\] nathanHK
 * LewdRobit
- * \[Book\] Decaf's Custom Stuff
- * \[Settings\] decafHK
+  * \[Book\] Decaf's Custom Stuff
+  * \[Settings\] decafHK
