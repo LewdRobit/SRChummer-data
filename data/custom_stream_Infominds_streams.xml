@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chummer>
+	<version>-999</version>
+	<traditions>
+		<tradition>
+			<name>Infominds</name>
+			<drain>LOG + RES</drain>
+			<spirits>
+				<spirit>Data Sprite</spirit>
+				<spirit>Crack Sprite</spirit>
+				<spirit>Tank Sprite</spirit>
+				<spirit>Code Sprite</spirit>
+				<spirit>Machine Sprite</spirit>
+			</spirits>
+			<source>DCF</source>
+			<page>--</page>
+		</tradition>
+	</traditions>
+</chummer>
